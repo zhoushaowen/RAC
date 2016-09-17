@@ -1,0 +1,5 @@
+link_with ‘ReactiveCocoa’, ‘RACSignal’,’RACDisposable’,’RACSubject’,’RACReplaySubject’,’RAC集合’,’RAC在开发中的使用场景’,’RAC常用的宏’,’RACMulticastConnection’,’RACCommand’,’RAC核心方法bind’,’RAC操作方法之映射(flattenMap,Map)’,’RAC操作方法之组合’,’RAC操作方法之过滤’,’RAC+MVVM(登录界面)’,’RAC+MVVM(网络请求)’
+platform :ios,’8.0’
+use_frameworks!
+pod 'ReactiveCocoa', '~> 4.2.2'
+pod 'AFNetworking', '~> 3.1.0'
